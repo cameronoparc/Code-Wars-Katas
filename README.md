@@ -1,2 +1,2 @@
 # Code-Wars-Katas
-These is a git of all the completed Katas I started in September 2019
+This is a repo of my solutions to Code War Katas I started in September 2019
